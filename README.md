@@ -115,3 +115,8 @@ Based on this, an application is designed in which the user can interact primari
 
 
 > In the`python notebook`  **main.ipynb** you can find the complete ETL implementation for processing data and loading it into **S3 vectors**. In the app folder you can find the Streamlit app and also the **AWS Elastic Beanstalk** implementation.
+
+----
+
+# Full article
+[🔗 Dev.to - From Coffee Products to AI Search: Building a Serverless Semantic Search Architecture with Amazon S3 Vectors and Bedrock](https://dev.to/aws-builders/from-coffee-products-to-ai-search-building-a-serverless-semantic-search-architecture-with-amazon-5g5b)
